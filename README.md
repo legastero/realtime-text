@@ -1,4 +1,7 @@
 # Realtime Text
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/legastero/realtime-text.svg)](https://greenkeeper.io/)
+
 **Input and display Realtime Text**
 
 
